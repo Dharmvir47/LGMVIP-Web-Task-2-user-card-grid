@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGMVIP-Web-Task-2-user-card-grid/static/css/main.50e301e8.css",
+    "main.js": "/LGMVIP-Web-Task-2-user-card-grid/static/js/main.8aa1d58b.js",
+    "static/js/787.f9f75a2b.chunk.js": "/LGMVIP-Web-Task-2-user-card-grid/static/js/787.f9f75a2b.chunk.js",
+    "index.html": "/LGMVIP-Web-Task-2-user-card-grid/index.html",
+    "main.50e301e8.css.map": "/LGMVIP-Web-Task-2-user-card-grid/static/css/main.50e301e8.css.map",
+    "main.8aa1d58b.js.map": "/LGMVIP-Web-Task-2-user-card-grid/static/js/main.8aa1d58b.js.map",
+    "787.f9f75a2b.chunk.js.map": "/LGMVIP-Web-Task-2-user-card-grid/static/js/787.f9f75a2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50e301e8.css",
+    "static/js/main.8aa1d58b.js"
+  ]
+}
