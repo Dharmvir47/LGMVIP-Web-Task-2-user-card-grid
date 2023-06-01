@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,700;1,400;1,500;1,700&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Nav Bar start */
+.navbar{
+  color: white;
+  /* padding:10px 20px ; */
+  overflow: hidden;
+  background: linear-gradient(to right, rgba(106, 17, 203, 0.9), rgba(37, 117, 252, 0.9));
+  font-family: 'Exo 2', sans-serif;
+  
+  font-weight: 700;
+  font-style: italic;
+}
+
+.navbar .li{
+  list-style-type: none;
+  display: block;
+  float: left;
+  padding: 10px 20px;
+}
+.navbar .li-fl{
+  list-style-type: none;
+  display: block;
+  float: right;
+ 
+}
+
+.navbar .navbar-item{
+  list-style-type: none;
+  display: block;
+  float: left;
+  font-size: larger;
+  /* color: red;
+  background-color: #61dafb; */
+ 
+}
+
+
+
+.navbar .li-fl button{
+  font-size: larger;
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 700;
+  font-style:italic;
+  /* width: 20vw; */
+
+ 
+  background-color: whitesmoke;
+  border-color: transparent;
+  /* padding: 2px 6px; */
+  padding: 10px 20px;
+
+
+
+}
